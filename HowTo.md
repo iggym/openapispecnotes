@@ -8,6 +8,10 @@
 * [Open API Specification (fka Swagger Specification) tutorial](https://gist.github.com/arno-di-loreto/5a3df2250721fb154060)
 * [Writing OpenAPI (Swagger) Specification Tutorial](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/)
 
+* []()<a href="http://www.youtube.com/watch?feature=player_embedded&v=GE3QT05hWs4
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ### Other Related Links
 * [The OAI Announces the OpenAPI Specification 3.0.0](https://www.openapis.org/blog/2017/07/26/the-oai-announces-the-openapi-specification-3-0-0)
 * [The OpenAPI Spec, Based on Swagger, Reaches 3.0](https://www.infoq.com/news/2017/01/openapi-3)

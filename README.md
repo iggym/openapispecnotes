@@ -30,6 +30,14 @@ An Open API Specification file is written in either JSON or YAML.
 ### Uses
 The Spec is used to 
 * Describe RESTful API.
-* Produce RESTful API.
-* Consume RESTful API.
+* Produce RESTful API and documentation.
+* Consume and Test RESTful API.
 * Visualize RESTful API.
+
+---
+### Useful Links
+[Swagger Tools](https://swagger.io/tools/) - Open API Spec Editor, Code generator and API documenting UI
+[Swagger Open API Docs](https://swagger.io/docs/specification/about/) - Easy to read Open API spec documentation.
+[Open API Spec docs](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.0.md)  - Not as easy to read as Swagger docs
+[SwaggerHub](https://swaggerhub.com/) - An integrated API design and documentation platform - sort of an IDE for API - Its not free.
+[Tutoorials and How To's](HoTo.md)

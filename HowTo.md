@@ -10,7 +10,7 @@
 
 * [Swagger API documentation tutorial for beginners - 4 - Open API specification summary](https://www.youtube.com/watch?v=GE3QT05hWs4)<a href="http://www.youtube.com/watch?feature=player_embedded&v=GE3QT05hWs4" target="_blank"><img src="http://img.youtube.com/vi/GE3QT05hWs4/0.jpg" 
 alt="Swagger API documentation tutorial for beginners" width="240" height="180" border="10" /></a>
-* [API Design with Swaggerhub](https://www.youtube.com/watch?v=G3FQc5hcV2U)<a href="http://www.youtube.com/watch?feature=player_embedded&v=G3FQc5hcV2U" target="_blank"><img src="http://img.youtube.com/vi/G3FQc5hcV2U/0.jpg" 
+* [API Design with Swaggerhub -   how to use the IDE. I define API,generate code for the API, run the generated API server.](https://www.youtube.com/watch?v=G3FQc5hcV2U)<a href="http://www.youtube.com/watch?feature=player_embedded&v=G3FQc5hcV2U" target="_blank"><img src="http://img.youtube.com/vi/G3FQc5hcV2U/0.jpg" 
 alt="API Design with Swaggerhub" width="240" height="180" border="10" /></a>
 
 ### Other Related Links

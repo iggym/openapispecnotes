@@ -9,7 +9,9 @@
 * [Writing OpenAPI (Swagger) Specification Tutorial](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/)
 
 * [Swagger API documentation tutorial for beginners - 4 - Open API specification summary](https://www.youtube.com/watch?v=GE3QT05hWs4)<a href="http://www.youtube.com/watch?feature=player_embedded&v=GE3QT05hWs4" target="_blank"><img src="http://img.youtube.com/vi/GE3QT05hWs4/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Swagger API documentation tutorial for beginners" width="240" height="180" border="10" /></a>
+* [API Design with Swaggerhub](https://www.youtube.com/watch?v=G3FQc5hcV2U)<a href="http://www.youtube.com/watch?feature=player_embedded&v=G3FQc5hcV2U" target="_blank"><img src="http://img.youtube.com/vi/G3FQc5hcV2U/0.jpg" 
+alt="API Design with Swaggerhub" width="240" height="180" border="10" /></a>
 
 ### Other Related Links
 * [The OAI Announces the OpenAPI Specification 3.0.0](https://www.openapis.org/blog/2017/07/26/the-oai-announces-the-openapi-specification-3-0-0)

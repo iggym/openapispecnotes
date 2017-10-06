@@ -40,4 +40,4 @@ The Spec is used to
 * [Swagger Open API Docs](https://swagger.io/docs/specification/about/) - Easy to read Open API spec documentation.
 * [Open API Spec docs](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.0.md)  - Not as easy to read as Swagger docs
 * [SwaggerHub](https://swaggerhub.com/) - An integrated API design and documentation platform - sort of an IDE for API - Its not free.
-* [Tutorials and How To's](HowTo.md) - Some tutorials and related links to working with Open API Spec docs
+* [Tools and Tutorials](HowTo.md) - Some tutorials and related links to working with Open API Spec docs

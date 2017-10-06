@@ -1,4 +1,4 @@
-## Tutorials and How-To's for developing Open API spec based API's
+## Tools and Tutorials for developing Open API spec based API's
 
 ### Tools
 * [Swagger Tools on github](https://github.com/swagger-api/swagger.io/blob/wordpress//tools/index.md)

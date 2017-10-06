@@ -34,8 +34,10 @@ The Spec is used to:
 * Consume and Test RESTful API.
 * Visualize RESTful API.
 
+The current version of the OpenAPI specification is [OpenAPI Specification 3.0](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.0.md).
 ---
 ### Useful Links
+* [Open API Initiative](https://www.openapis.org/) - Where the spec comes from.
 * [Swagger Tools](https://swagger.io/tools/) - Open API Spec Editor, Code generator and API documenting UI
 * [Swagger Open API Docs](https://swagger.io/docs/specification/about/) - Easy to read Open API spec documentation.
 * [Open API Spec docs](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.0.md)  - Not as easy to read as Swagger docs

@@ -6,7 +6,7 @@ Repo name:[openapispecnotes](https://github.com/iggym/openapispecnotes)
 
 ---
 ### Overview
-The [OpenAPI Specification](https://en.wikipedia.org/wiki/OpenAPI_Specification) is an API definition language or format that enables you to describe an API and subsequently generate
+The [OpenAPI Specification](https://en.wikipedia.org/wiki/OpenAPI_Specification) is an API definition language or format that enables you to describe an API and subsequently generate documentation and code.
 
 The [OpenAPI Specification](https://en.wikipedia.org/wiki/OpenAPI_Specification) was previosuly known as the Swagger Specification.
 
@@ -16,11 +16,15 @@ It is primarily a specification for
 * Consuming RESTful Web services.
 * Visualizing RESTful Web services.
 
-The specification is currently developed through the Open API Initiative, a project of the [Linux Foundation](https://en.wikipedia.org/wiki/Linux_Foundation).
+The specification is currently developed through the [Open API Initiative](https://www.openapis.org/), a project of the [Linux Foundation](https://en.wikipedia.org/wiki/Linux_Foundation).
 
 The [specification](https://github.com/OAI/OpenAPI-Specification) is hosted on [github](https://github.com/OAI/OpenAPI-Specification).
 
 [Version 3.0.0](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.0.md) of the spec is  most recent version released in [July 2017](https://www.openapis.org/blog/2017/07/26/the-oai-announces-the-openapi-specification-3-0-0)
+
+An Open API Specification file is written in either JSON or YAML. 
+
+> OpenAPI documents describe an API's services and are represented in either YAML or JSON formats. These documents may either be produced and served statically or be generated dynamically from an application. [Open API Spec](https://github.com/OAI/OpenAPI-Specification)
 
 --- 
 ### Uses

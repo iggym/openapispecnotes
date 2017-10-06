@@ -28,7 +28,7 @@ An Open API Specification file is written in either JSON or YAML.
 
 --- 
 ### Uses
-The Spec is used to 
+The Spec is used to: 
 * Describe RESTful API.
 * Produce RESTful API and documentation.
 * Consume and Test RESTful API.

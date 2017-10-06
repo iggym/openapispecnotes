@@ -5,3 +5,9 @@
 * [Swagger 2.0 implementation for go](https://github.com/go-swagger/go-swagger)
 
 ### Tutorials
+* [Open API Specification (fka Swagger Specification) tutorial](https://gist.github.com/arno-di-loreto/5a3df2250721fb154060)
+
+
+### Other Related Links
+* [The OAI Announces the OpenAPI Specification 3.0.0](https://www.openapis.org/blog/2017/07/26/the-oai-announces-the-openapi-specification-3-0-0)
+* [The OpenAPI Spec, Based on Swagger, Reaches 3.0](https://www.infoq.com/news/2017/01/openapi-3)

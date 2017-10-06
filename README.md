@@ -11,3 +11,9 @@ The [OpenAPI Specification](https://en.wikipedia.org/wiki/OpenAPI_Specification)
 * Producing RESTful Web services.
 * Consuming RESTful Web services.
 * Visualizing RESTful Web services.
+
+The specification is currently developed through the Open API Initiative, a project of the [Linux Foundation](https://en.wikipedia.org/wiki/Linux_Foundation).
+
+---
+
+The [specification](https://github.com/OAI/OpenAPI-Specification) is hosted on [github](https://github.com/OAI/OpenAPI-Specification).

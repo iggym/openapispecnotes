@@ -6,7 +6,7 @@
 
 ### Tutorials
 * [Open API Specification (fka Swagger Specification) tutorial](https://gist.github.com/arno-di-loreto/5a3df2250721fb154060)
-
+* [Writing OpenAPI (Swagger) Specification Tutorial](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/)
 
 ### Other Related Links
 * [The OAI Announces the OpenAPI Specification 3.0.0](https://www.openapis.org/blog/2017/07/26/the-oai-announces-the-openapi-specification-3-0-0)

@@ -24,7 +24,7 @@ The [specification](https://github.com/OAI/OpenAPI-Specification) is hosted on [
 
 An Open API Specification file is written in either JSON or YAML. 
 
-> OpenAPI documents describe an API's services and are represented in either YAML or JSON formats. These documents may either be produced and served statically or be generated dynamically from an application. [Open API Spec](https://github.com/OAI/OpenAPI-Specification)
+> OpenAPI documents describe an API's services and are represented in either YAML or JSON formats. These documents may either be produced and served statically or be generated dynamically from an application. [[The Open API Spec](https://github.com/OAI/OpenAPI-Specification)
 
 --- 
 ### Uses

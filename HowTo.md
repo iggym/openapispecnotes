@@ -8,6 +8,7 @@
 * [Open API Specification (fka Swagger Specification) tutorial](https://gist.github.com/arno-di-loreto/5a3df2250721fb154060)
 * [Writing OpenAPI (Swagger) Specification Tutorial](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/)
 * [Swagger Core Jersey 2.X Project Setup 1.5](https://github.com/swagger-api/swagger-core/wiki/Swagger-Core-Jersey-2.X-Project-Setup-1.5)
+* [Creating a Simple Movie Store API with Swagger](https://www.codementor.io/ayushgupta/creating-a-simple-movie-store-api-with-swagger-tmecy3y8t)
 
 * [Swagger API documentation tutorial for beginners - 4 - Open API specification summary](https://www.youtube.com/watch?v=GE3QT05hWs4)<a href="http://www.youtube.com/watch?feature=player_embedded&v=GE3QT05hWs4" target="_blank"><img src="http://img.youtube.com/vi/GE3QT05hWs4/0.jpg" 
 alt="Swagger API documentation tutorial for beginners" width="240" height="180" border="10" /></a>

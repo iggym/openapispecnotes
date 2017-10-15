@@ -2,7 +2,7 @@
 Repo name:[openapispecnotes](https://github.com/iggym/openapispecnotes)
 
 
- Notes, Thoughts and links regarding how to be productive with the OpenAPI Specification
+ Notes, Thoughts and links regarding how to be productive with the OpenAPI Specification. Also included are [Tools and Tutorials](HowTo.md) related to [OpenAPI Specification](https://en.wikipedia.org/wiki/OpenAPI_Specification).
 
 ---
 ### Overview
